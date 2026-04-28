@@ -1,5 +1,5 @@
 #  About Me:
-Founder & CEO of Lin's Infotechs | AI Solution Maker | Full Stack Web & App Developer<br><br>🔹 Tech Stack: Python, TensorFlow, React Native, JavaScript, TypeScript, HTML, CSS, SQL, C, C++<br>🔹 Expertise: AI/ML, SDN, Cloud Computing, Cybersecurity, UI/UX Design<br>🔹 Current Projects: HoverNav (AI-Powered Virtual Mouse) | Speech Emotion Recognition<br>🔹 Achievements: Best Startup Team Award | AI & Innovation Student Ambassador<br><br>  Passionate about AI, Entrepreneurship, and Tech Innovation. Always learning, building, and collaborating!<br>
+Founder & CEO of Lin's Infotech | AI Solution Maker | Full Stack Web & App Developer<br><br>🔹 Tech Stack: Python, TensorFlow, React Native, JavaScript, TypeScript, HTML, CSS, SQL, C, C++<br>🔹 Expertise: AI/ML, SDN, Cloud Computing, Cybersecurity, UI/UX Design<br>🔹 Current Projects: HoverNav (AI-Powered Virtual Mouse) | Speech Emotion Recognition<br>🔹 Achievements: Best Startup Team Award | AI & Innovation Student Ambassador<br><br>  Passionate about AI, Entrepreneurship, and Tech Innovation. Always learning, building, and collaborating!<br>
 
 
 ## Socials:
